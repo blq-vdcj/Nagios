@@ -1,6 +1,6 @@
 # Nagios files
 # Table of Contents
 
-- [Basic installation Nagios linux](#nagios_installation)
-    -[Ajout d'host dans nagios](#nagios_addhost)
+- [Basic installation Nagios linux](https://github.com/vandcj/Nagios/blob/main/Adding%20a%20device%20to%20Nagios.md)
+    -[Ajout d'host dans nagios](https://github.com/vandcj/Nagios/blob/main/nagios%20installation%20raspberry%20pi.md)
     
