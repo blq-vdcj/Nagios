@@ -1,10 +1,3 @@
----
-tags: [github]
-title: Adding a device to Nagios
-created: '2021-05-30T21:49:41.173Z'
-modified: '2021-05-30T21:58:26.678Z'
----
-
 ## ***Adding a device to Nagios***
 
 In the next two sections, we will be showing you how you can add a device for Nagios to check. This process is relatively simple but does involve modifying a couple of configuration files.
